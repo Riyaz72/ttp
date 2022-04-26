@@ -17,7 +17,7 @@
         padding-right: 4px;
         color: unset;
     }
-    .box {
+    .box {    
         padding: 20px;
         position: relative;
         overflow: hidden;
