@@ -8,8 +8,8 @@ require_once('connection.php');
         <div class="col-sm-12">
             <div class=" text-center">
                 <h2>NEWSROOM</h2> 
-            </div>
-        </div>
+             </div>
+        </div>    
         <div class="col-sm-12">
             <div class="contain">
                 <div id="owl-carousel" class="owl-carousel owl-theme">
